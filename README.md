@@ -7,7 +7,11 @@ the basics of machine learning and data analysis as well as apply them in an eas
 ## User Comments:
 
 HELLO
+
 I AM SHAKEEB'S BIGGEST FAN
+
 OMG I CAN'T BELIEVE HE MADE A PREDICTION MODEL
+
 HES SO SMART
+
 WHOEVER SEES THIS SHOULD HIRE HIM :)
